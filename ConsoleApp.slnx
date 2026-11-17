@@ -1,9 +1,13 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/OOP/OOP.csproj" />
+    <Project Path="src/Uebung_1/Uebung_1.csproj" />
     <Project Path="src/Uebung_2_1/Uebung_2_1.csproj" />
     <Project Path="src/Uebung_2_2/Uebung_2_2.csproj" />
     <Project Path="src/Uebung_2_3/Uebung_2_3.csproj" />
+    <Project Path="src/Uebung_3_1/Uebung_3_1.csproj" />
+    <Project Path="src/Uebung_3_2/Uebung_3_2.csproj" />
+    <Project Path="src/Uebung_3_3_Apfelmaennchen/Uebung_3_3_Apfelmaennchen.csproj" />
   </Folder>
   <Project Path="src/HelloWorld/HelloWorld.csproj" />
 </Solution>
